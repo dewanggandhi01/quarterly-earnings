@@ -6,7 +6,7 @@ theme: gaia
 paginate: true
 ---
 
-<!-- Custom theme via CSS -->
+<!-- Custom theme via the CSS -->
 <style>
 section {
   background: #fdf6e3;
